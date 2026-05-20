@@ -159,6 +159,9 @@ The model was executed using a Python-based workflow. The script reads the input
 The output images showed bounding boxes around detected hard hats and workers. These outputs were reviewed manually to determine whether the detection result was correct or incorrect.
 
 ![Original_Image](input_files\hardhat_input_picture_5.jpg)
+
+
+
 ![Processed_Image_w_BoundingBox](output_files\hardhat_output_picture_5.jpg)
 
 ---
