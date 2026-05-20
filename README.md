@@ -78,7 +78,7 @@ This folder contains the pretrained model files used in the project.
 * `last_hardhat_200_epochs.pt`: pretrained hard-hat detection model.
 * `yolov8x.pt`: YOLOv8 model used for person/object detection.
 
-[Link of the models](https://utoronto-my.sharepoint.com/:f:/g/personal/j_peinado_mail_utoronto_ca/IgDVMJ5cgjyMQbG6llMMN_JKAaao4b7DFbX9fM81DvzQRnk?e=wSvFXx)
+[Link to the models](https://utoronto-my.sharepoint.com/:f:/g/personal/j_peinado_mail_utoronto_ca/IgDVMJ5cgjyMQbG6llMMN_JKAaao4b7DFbX9fM81DvzQRnk?e=wSvFXx)
 
 #### `output_files/`
 
