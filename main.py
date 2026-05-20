@@ -60,7 +60,7 @@ def main():
     person_tracker = PersonTracker('yolov8x')
 
     # Picture detections
-    for picture_number in range(1, 6):
+    for picture_number in range(1, 21):
         input_picture_path = f'input_files/hardhat_input_picture_{picture_number}.jpg'
         output_picture_path = f'output_files/hardhat_output_picture_{picture_number}.jpg'
 
