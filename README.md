@@ -1,7 +1,7 @@
 
 # Hard Hat Detection Using a Pretrained YOLOv8 Model
 
-## CIV1287: Virtualization and Analytics in Construction  
+## CIV1287H: Virtualization and Analytics in Construction  
 ### Coding Assignment: AI-Assisted Construction Analytics
 
 ---
