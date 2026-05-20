@@ -225,7 +225,7 @@ The main limitations of this workflow are:
 
 Using AI-assisted tools made the coding experience much faster. Instead of building the machine learning model from scratch, I was able to focus on understanding how to implement the pretrained model, organize the workflow, and interpret the results.
 
-AI-assisted development also helped me work through the project even with limited experience in machine learning. It made the process more accessible by helping with code structure, debugging, and explanations of how the model works.
+AI-assisted development made the process more accessible by helping with code structure, debugging, and explanations of how the model works.
 
 ## Q2. Where AI-Assisted Building Worked Well
 
